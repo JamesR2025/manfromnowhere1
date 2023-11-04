@@ -1,0 +1,39 @@
+*{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    background-color: lightblue
+}
+.bold{
+    font-weight: bolder;
+    background-color: white;
+}
+#first{
+    border: 2px solid gold;
+    text-align: center;
+    background-color: white;
+}
+
+
+.text{
+    background-color: white;
+    line-height: 2;
+}
+
+button{
+    box-shadow: 5px, 5px, 10px rgba(0, 0, 0, 0.5);
+
+}
+
+#waveButton{
+
+    background-color: red;
+    height: 40px;
+    border-radius: 30%;
+    color:white;
+    z-index: index 2;
+    box-shadow: 5px, 5px, 10px rgba(0, 0, 0, 0.5);
+}
+
+#welcome{
+    text-decoration: underline;
+}
